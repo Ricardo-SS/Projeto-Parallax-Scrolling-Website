@@ -11,5 +11,6 @@
 ## Formato das imagens
 - png
 
+## Captura de tela
 <img src="/img/capturaDeTela.png" style=" width: 800px">
 
