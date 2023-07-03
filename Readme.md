@@ -11,3 +11,5 @@
 ## Formato das imagens
 - png
 
+<img src="/img/capturaDeTela.png" style=" width: 800px">
+
